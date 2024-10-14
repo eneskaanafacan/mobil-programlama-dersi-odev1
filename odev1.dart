@@ -8,7 +8,7 @@ void main(List<String> args) {
 
   switch (operation) {
     case '+':
-      print('$input1 + $input2 = ${calculator.add(input1!, input2!)}');
+      print('$input1  + $input2 = ${calculator.add(input1!, input2!)}');
       break;
     case '-':
       print('$input1 - $input2 = ${calculator.subtract(input1!, input2!)}');
